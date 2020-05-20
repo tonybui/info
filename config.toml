@@ -17,9 +17,9 @@ theme = "aerial"
   link = "#"
 
 [[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
-  link = "#"
+  medium = "LinkedIN"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/tonytungbui/"
 
 [[params.social]]
   medium = "Gitlab"
