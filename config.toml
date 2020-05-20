@@ -1,0 +1,37 @@
+languageCode = "en-us"
+title = "Tony Bui"
+baseurl = "https://info.tbui.net"
+theme = "aerial"
+
+[params]
+  name = "Tony Bui"
+  about = "DevOps &nbsp;&bull;&nbsp; SRE &nbsp;&bull;&nbsp; IT"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "Dribbble"
+  icon = "dribbble"
+  link = "#"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/tonybui"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "#"
