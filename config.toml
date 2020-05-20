@@ -22,9 +22,9 @@ theme = "aerial"
   link = "#"
 
 [[params.social]]
-  medium = "Dribbble"
-  icon = "dribbble"
-  link = "#"
+  medium = "Gitlab"
+  icon = "gitlab"
+  link = "https://gitlab.com/dabubu"
 
 [[params.social]]
   medium = "Github"
